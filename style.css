@@ -202,11 +202,13 @@ h3{
 }
 .blog-center{
     display: flex;
+ 
 }
 .blog-center p{
-    position: relative;
-    top: 275px;
-    left: -275px;
+    font-size:22px;
+    position: fixed;
+    bottom: 400px;
+    right: 906px;
 }
 /*......Contacts.....*/
 .contacts{
